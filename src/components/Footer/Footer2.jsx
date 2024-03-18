@@ -15,7 +15,7 @@ function Footer2() {
 
 
             <div className="w-full h-[82px] md:h-full bg-teal-800">
-                <div className='flex pt-4 md:pt-8'>
+{/*                 <div className='flex pt-4 md:pt-8'>
                     <div className='ml-[0px] md:ml-[00px]'>
                         <a href="https://example.com">
                             <img src={Linkedin} alt="Image description" class="w-[30px] h-[30px] ml-[46px] md:ml-[430px] mr-8 md:mr-[70px]" />
@@ -41,7 +41,7 @@ function Footer2() {
                             <img src={Youtube} alt="Image description" class="w-[30px] h-[30px]" />
                         </a>
                     </div>
-                </div>
+                </div> */}
                 <div className='hidden md:block'>
                     <div className=" md:w-[1090.82px] mt-4 ml-[130px] h-[23.46px] relative border-t border-neutral-400"></div>
                     <div className='flex pb-2'>
